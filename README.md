@@ -1,1 +1,0 @@
-# rakenduste-programmeerimine-2024
